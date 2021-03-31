@@ -32,7 +32,7 @@ class AppNavabar extends Component {
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="ml-auto" navbar>
                             <NavItem>
-                                <NavLink href="https://githun.com/K3T1584">
+                                <NavLink href="https://github.com/K3T1584">
                                     Github
                                 </NavLink>
                             </NavItem>
